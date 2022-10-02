@@ -4,6 +4,10 @@
 
 Lapest App cafe, destination, restaurant and review
 
+## backgroud
+
+lap for student architecture design software, UX-UI, Design Thinking, Front End, Backend
+
 ## docs
 
 
