@@ -1,4 +1,4 @@
-# lapest_app
+# Lapest App
 
 A new Flutter project.
 
