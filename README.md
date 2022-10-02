@@ -14,3 +14,4 @@ Lapest App cafe, destination, restaurant and review
 
 [Figma App-WEB UX-UI ](https://www.figma.com/team_invite/redeem/cgPGTzXG0NJKXvuaG1svSJ)
 
+![image](https://user-images.githubusercontent.com/18229355/193444665-4adef194-0dc9-4864-bcb0-d4a3c4b5a00c.png)
